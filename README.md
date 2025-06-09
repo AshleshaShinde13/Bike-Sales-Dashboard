@@ -22,6 +22,9 @@ A comprehensive analytics dashboard designed to explore customer demographics an
 * **Advanced Analytics**: Income distribution histograms or box plots
 * **Filter Controls**: Interactive slicers for gender, age group, commute, region, marital status, education
 
+  ![image](https://github.com/user-attachments/assets/a2c3bc49-2a3e-4ec5-b28b-c96a1dfe484e)
+
+
 **Conclusion**
 
 The Bike Sales Dashboard reveals that middle-aged, higher-income individuals with short commute distances are the most likely to purchase bikes. Males have a higher average income and purchase rate than females. Commute distance and regional differences also impact buying behavior. These insights help identify key customer segments and support data-driven marketing. The dashboard enables businesses to tailor strategies and increase sales efficiently.
