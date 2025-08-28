@@ -1,16 +1,16 @@
 # Bike-Sales-Analysis-Dashboard
 
-**PROJECT OVERVIEW**
+**Project Overview**
 
 A comprehensive analytics dashboard designed to explore customer demographics and purchasing behavior related to bike sales. Enables interactive insights into factors such as income, age, gender, commute patterns, education, marital status, and region, empowering data-driven marketing and sales strategies.
 
-**OBJECTIVES**
+**Objectives**
 
 * Understand how demographic segments influence bike purchase probability.
 * Identify high-potential customer profiles (e.g., middle-aged, higher-income, short-distance commuters).
 * Provide actionable insights for targeted marketing and product planning.
 
-**KEY FEATURES**
+**Key Features**
 
 * **KPI Cards**: Total customers, total bike purchases, purchase rate, average income (purchasers vs. non-purchasers)
 * **Visual Breakdown**:
@@ -22,7 +22,14 @@ A comprehensive analytics dashboard designed to explore customer demographics an
 * **Advanced Analytics**: Income distribution histograms or box plots
 * **Filter Controls**: Interactive slicers for gender, age group, commute, region, marital status, education
 
-**DASHBOARD**
+* **Skills & Tools Used**
+* Excel Formulas (SUMIFS, LOOKUPs, etc.)
+* Pivot Tables & Pivot Charts
+* Data Visualization & Storytelling
+* Dashboard Design Principles
+* Data Cleaning Techniques
+
+**Dashboard**
 
   ![image](https://github.com/user-attachments/assets/a2c3bc49-2a3e-4ec5-b28b-c96a1dfe484e)
 
