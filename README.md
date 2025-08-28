@@ -22,7 +22,8 @@ A comprehensive analytics dashboard designed to explore customer demographics an
 * **Advanced Analytics**: Income distribution histograms or box plots
 * **Filter Controls**: Interactive slicers for gender, age group, commute, region, marital status, education
 
-* **Skills & Tools Used**
+**Skills & Tools Used**
+
 * Excel Formulas (SUMIFS, LOOKUPs, etc.)
 * Pivot Tables & Pivot Charts
 * Data Visualization & Storytelling
